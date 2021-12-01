@@ -11,10 +11,10 @@
 
 #
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MR EDWIN &color=blue&style=flat-square&label=Profile+Views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MREDWIN&color=blue&style=flat-square&label=Profile+Views" /></p>
 <p align="center"><img src="https://img.shields.io/github/followers/ZmRAJA.svg?style=social&label=Follow&maxAge=9999999" />  <img src="https://img.shields.io/github/stars/ZmRAJA?style=social" /></p>
-<p align="center"><a href="https://github.com/ZmRAJA"><img src="https://github-readme-stats.vercel.app/api?username=MR EDWIN&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ZmRAJA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR EDWIN&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ZmRAJA"><img src="https://github-readme-stats.vercel.app/api?username=ZmRAJA&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ZmRAJA"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZmRAJA&theme=radical&layout=compact"></a></p> 
 
 #
 
