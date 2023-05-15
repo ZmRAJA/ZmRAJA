@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZmRAJA
+- 👋 Hi, I’m @RAJA
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://img.shields.io/badge/ 🔴 ZmRAJA 🔴%20 -gold?&style=flat-square?&logo=github" width=600px></a></p>
+<p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://img.shields.io/badge/ 🔴 RAJA 🔴%20 -gold?&style=flat-square?&logo=github" width=600px></a></p>
 <p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://telegra.ph/file/f567c2a3f334423ba928d.png"></a></p>
 
 #
