@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://img.shields.io/badge/ 🔴 RAJA 🔴%20 -gold?&style=flat-square?&logo=github" width=600px></a></p>
+<p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://img.shields.io/badge/ 🔴 XERX 🔴%20 -gold?&style=flat-square?&logo=github" width=600px></a></p>
 <p align="center"><a href="https://github.com/ZmRAJA/"><img src="https://telegra.ph/file/f567c2a3f334423ba928d.png"></a></p>
 
 #
